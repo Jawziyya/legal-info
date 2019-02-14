@@ -1,0 +1,28 @@
+بسم الله الرحمن الرحيم
+
+PRIVACY POLICY
+We publish this Privacy Statement to inform you what information we collect and how we use it to personalize and continually improve your experience.
+
+This Privacy Statement applies to «Фаваид» app and its services which collects non-personalized data from users and does not apply to the product or service that which does not link to this statement or has its privacy statement respectively.
+
+
+INFORMATION WE COLLECT
+a. Personal Information. We DO NOT collect ANY Personal Information.
+
+b. Non-personal Information. We DO collect non-personal information when you open the app, including information about iOS version, logs and some users' actions in the app which helps us to understand the audience and make our services better.
+
+
+HOW WE USE COLLECTED DATA
+a. Personal Information. We DO NOT collect Personal Information and therefore we DO NOT use any personal data.
+
+b. Non-Personal Information. We do collect anonymous analytics data using Fabric's Crashlytics framework and we use it on Fabric's dashboard.
+
+c. Legal Reasons. We will access, use or disclose the collected information for reasons that required by any applicable law, regulation, legal process or enforceable governmental request.
+
+
+SECURITY
+We are concerned about safeguarding the confidentiality of your information and that's why we DO NOT collect Personal Information.
+
+
+CONTACT US
+If you have any questions or comments about this Policy or our privacy practices, or to report any violations of the Policy or abuse of the Services or the Site, please reach us at our Telegram channel @jawziyya
